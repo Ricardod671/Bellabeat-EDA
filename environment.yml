@@ -1,0 +1,8 @@
+name: bellabeat
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - seaborn
+  - ipykernel
+prefix: /home/ricardod671/anaconda3/envs/bellabeat
